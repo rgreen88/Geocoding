@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geocoding</string>
+    <string name="remove_activity_updates">Remove activity updates</string>
+    <string name="detected_activities_title">Detected Activities</string>
+    <string name="short_dimensions">5dp</string>
+    <string name="get_coordinates">Get Coordinates</string>
+    <string name="enter_an_address">Enter an address</string>
+</resources>
